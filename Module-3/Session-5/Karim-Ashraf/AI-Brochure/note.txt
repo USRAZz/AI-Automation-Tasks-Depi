@@ -1,0 +1,6 @@
+google : 142.250.72.14
+
+
+open ai : https://api.openai.com/v1/chat/completions
+
+
